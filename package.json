@@ -1,0 +1,19 @@
+{
+  "name": "supro",
+  "version": "0.1.0",
+  "description": "Super Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexAtNet/supro.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexAtNet/supro/issues"
+  },
+  "homepage": "https://github.com/AlexAtNet/supro#readme"
+}
